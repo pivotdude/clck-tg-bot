@@ -1,0 +1,1 @@
+docker build -t clicker_tg_bot:latest .
